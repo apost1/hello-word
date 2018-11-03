@@ -1,2 +1,4 @@
 # hello-word
-something new
+
+Hi guys!
+I like to programming.
